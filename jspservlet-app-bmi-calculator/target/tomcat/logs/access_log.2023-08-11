@@ -1,4 +1,0 @@
-10.80.1.4 - - [11/Aug/2023:06:30:55 +0000] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
-10.80.1.4 - - [11/Aug/2023:06:31:23 +0000] "GET /jspservlet-app-bmi-calculator HTTP/1.1" 404 - http-bio-8080-exec-3 0
-127.0.0.1 - - [11/Aug/2023:06:31:50 +0000] "GET / HTTP/1.1" 404 - http-bio-8080-exec-5 0
-127.0.0.1 - - [11/Aug/2023:06:32:07 +0000] "GET /jspservlet-app-bmi-calculator HTTP/1.1" 404 - http-bio-8080-exec-6 0
